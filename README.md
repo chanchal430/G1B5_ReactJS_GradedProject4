@@ -4,9 +4,10 @@ Movies on the Tip is an online movie database to view movies in the theater, upc
 # Configurations
 ## Server
 Open the server directory in the terminal and run the following command:
+
 > [!IMPORTANT]
-> npm i
-to install the modules and then
+> npm i <br>
+to install the modules and then<br>
 > npm start
 
 > [!TIP]
