@@ -8,6 +8,7 @@ Open the server directory in the terminal and run the following command:
 > npm i
 to install the modules and then
 > npm start
+
 > [!TIP]
 > to start the server. Open http://localhost:3001 to view it in the browser.
 # movie-website
